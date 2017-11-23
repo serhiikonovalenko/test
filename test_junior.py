@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# Solution task from Serhii Konovalenko for position Junior DevOps
+
 import datetime as dt
 import sys
 from termcolor import colored
